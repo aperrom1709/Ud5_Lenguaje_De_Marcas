@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet href="act5.2.xsl" type="text/xsl"?>
+<?xml-stylesheet href="act5.3.xsl" type="text/xsl"?>
 <libreria>
  <libro>
   <titulo>Physics-based animation</titulo>
@@ -47,10 +47,17 @@
   <numPaginas>400</numPaginas>  
  </libro>
  <libro>
-  <titulo>Nuevo libro de Kenny Erleben</titulo>
-  <autor>Kenny Erleben</autor>
-  <editor>Nuevo editor</editor>
-  <isbn>978-1234567891</isbn>
-  <precio>45.00</precio>
+  <titulo>nont</titulo>
+  <autor>pirri</autor>
+  <editor>alonsistas</editor>
+  <isbn>978-1234567892</isbn>
+  <precio>10.50</precio>
+</libro>
+<libro>
+  <titulo>yesnt</titulo>
+  <autor>pirri</autor>
+  <editor>alonsistas</editor>
+  <isbn>978-1234567893</isbn>
+  <precio>12.50</precio>
 </libro>
 </libreria>
