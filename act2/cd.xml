@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd_p1.xsl" type="text/xsl"?>
+<cds>
+    <cd>
+        <titulo_album>"Hotel California"</titulo_album>
+        <artista>Eagles</artista>
+        <canciones>
+            <cancion>
+                <titulo>Hotel California</titulo>
+                <tiempo>6:30</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>New Kid in Town</titulo>
+                <tiempo>5:30</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Asylum Records</sello_discografico>
+        <anio_publicacion>1976</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"The Dark Side of the Moon"</titulo_album>
+        <artista>Pink Floyd</artista>
+        <canciones>
+            <cancion>
+                <titulo>Speak to Me</titulo>
+                <tiempo>1:30</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Breathe</titulo>
+                <tiempo>2:47</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Harvest Records</sello_discografico>
+        <anio_publicacion>1973</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"The Beatles"</titulo_album>
+        <artista>The Beatles</artista>
+        <canciones>
+            <cancion>
+                <titulo>Let It Be</titulo>
+                <tiempo>3:02</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Hey Jude</titulo>
+                <tiempo>7:07</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Apple Records</sello_discografico>
+        <anio_publicacion>1969</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"Bohemian Rhapsody"</titulo_album>
+        <artista>Queen</artista>
+        <canciones>
+            <cancion>
+                <titulo>Bohemian Rhapsody</titulo>
+                <tiempo>5:55</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Hammer to Fall</titulo>
+                <tiempo>4:02</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>EMI Records</sello_discografico>
+        <anio_publicacion>1975</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"The Joshua Tree"</titulo_album>
+        <artista>U2</artista>
+        <canciones>
+            <cancion>
+                <titulo>With or Without You</titulo>
+                <tiempo>4:56</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>I Still Haven't Found What I'm Looking For</titulo>
+                <tiempo>4:26</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Island Records</sello_discografico>
+        <anio_publicacion>1987</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"The Great Twenty-Eight"</titulo_album>
+        <artista>Los Fabulosos Cadillacs</artista>
+        <canciones>
+            <cancion>
+                <titulo>La Llave de Mi Corazón</titulo>
+                <tiempo>4:20</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>El Matadero</titulo>
+                <tiempo>4:15</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Warner Music Latina</sello_discografico>
+        <anio_publicacion>1997</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"La Vida... Es un Sueño"</titulo_album>
+        <artista>Manu Chao</artista>
+        <canciones>
+            <cancion>
+                <titulo>Me Gustas Tú</titulo>
+                <tiempo>3:30</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Rayando el Sol</titulo>
+                <tiempo>3:55</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Virgin Records</sello_discografico>
+        <anio_publicacion>2002</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"The White Stripes"</titulo_album>
+        <artista>The White Stripes</artista>
+        <canciones>
+            <cancion>
+                <titulo>Seven Nation Army</titulo>
+                <tiempo>3:54</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>The Hardest Button to Button</titulo>
+                <tiempo>3:15</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>XL Recordings</sello_discografico>
+        <anio_publicacion>2005</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"The Joshua Tree"</titulo_album>
+        <artista>U2</artista>
+        <canciones>
+            <cancion>
+                <titulo>With or Without You</titulo>
+                <tiempo>4:56</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>I Still Haven't Found What I'm Looking For</titulo>
+                <tiempo>4:26</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Island Records</sello_discografico>
+        <anio_publicacion>1987</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"The Great Twenty-Eight"</titulo_album>
+        <artista>Los Fabulosos Cadillacs</artista>
+        <canciones>
+            <cancion>
+                <titulo>La Llave de Mi Corazón</titulo>
+                <tiempo>4:20</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>El Matadero</titulo>
+                <tiempo>4:15</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Warner Music Latina</sello_discografico>
+        <anio_publicacion>1997</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo_album>"La Vida... Es un Sueño"</titulo_album>
+        <artista>Manu Chao</artista>
+        <canciones>
+            <cancion>
+                <titulo>Me Gustas Tú</titulo>
+                <tiempo>3:30</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Rayando el Sol</titulo>
+                <tiempo>3:55</tiempo>
+            </cancion>
+        </canciones>
+        <sello_discografico>Virgin Records</sello_discografico>
+        <anio_publicacion>2002</anio_publicacion>
+    </cd>
+</cds>
