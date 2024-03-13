@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="2.0.xsl" type="text/xsl"?>
+<notas>
+    <alumno convocatoria="Junio">
+        <nombre>Juan</nombre>
+        <apellidos>Pérez</apellidos>
+        <cuestionarios>8</cuestionarios>
+        <tareas>7</tareas>
+        <examen>9</examen>
+        <final>8.5</final>
+    </alumno>
+    <alumno convocatoria="Junio">
+        <nombre>María</nombre>
+        <apellidos>Gómez</apellidos>
+        <cuestionarios>7</cuestionarios>
+        <tareas>8</tareas>
+        <examen>8</examen>
+        <final>7.5</final>
+    </alumno>
+    <alumno convocatoria="Julio">
+        <nombre>Carlos</nombre>
+        <apellidos>López</apellidos>
+        <cuestionarios>6</cuestionarios>
+        <tareas>6</tareas>
+        <examen>7</examen>
+        <final>6.5</final>
+    </alumno>
+</notas>
